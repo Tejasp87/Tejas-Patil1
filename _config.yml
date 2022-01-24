@@ -1,12 +1,11 @@
 titlle: Tejas Vilas Patil #name
 logo: "profile.jpeg?raw=ture" #logo
-<p>
- desciption: > #line
+desciption: > #line
   <h1> QA Tester </h1> 
      <br><br>
      <a href="mailto:Tejasvp87@gmail.com"> Tejasvp87@gmail.com </a>
      <br>
      <a href="https://www.linkedin.com/in/tejas-patil-0087//"> LinkedIn Profile </a>
      <br>
- </p>    
+
 theme: jekyll-theme-minimal
