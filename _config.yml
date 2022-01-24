@@ -1,11 +1,11 @@
-titlle: Tejas Vilas Patil #name
-logo: "profile.jpeg?raw=ture" #logo
-desciption: > #line
-  <h1> QA Tester </h1> 
-     <br><br>
-     <a href="mailto:Tejasvp87@gmail.com"> Tejasvp87@gmail.com </a>
-     <br>
-     <a href="https://www.linkedin.com/in/tejas-patil-0087//"> LinkedIn Profile </a>
-     <br>
-
+title: Tejas patil # your name (or website title) here
+logo: "/profile.jpeg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Senior Frontend Engineer
+  <br><br>
+  <a href="mailto:tejasvp87@gmail.com">tejasvp87@gmail.com </a>
+  <br>
+  <a href="https://tejasp87.github.io/Tejas_Patil/">LinkedIn Profile</a>
+  <br>
+  <a href="https://www.gihub.com/aashimaahuja/">Gihub</a> 
 theme: jekyll-theme-minimal
