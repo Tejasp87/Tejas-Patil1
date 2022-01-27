@@ -2,10 +2,14 @@
 title: Tejas Vilas Patil # your name (or website title) here
 logo: "/profile-modified.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <h3 style="text-align:center;">Quality assurance </h3>
+  <h3 style="text-align:center;">Quality Assurance </h3>
   <br><br>
   <a href="mailto:tejasvp87@gmail.com">tejasvp87@gmail.com </a>
-  <br>
+  <br><br>
   <a href="https://www.linkedin.com/in/tejas-patil-0087/">LinkedIn Profile</a>
-  <br>
+  <br><br>
+  <br><br>
+  <br><br>
+  <br><br>
+  <br><br>
 theme: jekyll-theme-minimal
