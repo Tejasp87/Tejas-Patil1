@@ -6,17 +6,7 @@
    <hr>
    <h2 id="skills">Skills</h2>
    <p align="left">
-      • Automation Tools: Selenium WebDriver <img src="Resource/Eclipse-01.png/2048px-HTML5_logo_and_wordmark.svg.png" alt="Eclipse" width="40" height="40">
-      <br>• Testing Types: Functional, System, UAT, BVT
-      <br>• Agile Tools: Jira Software, Confluence
-      <br>• Databases: MySQL
-      <br>• Programming Language: Java, Python
-      <br>• Testing Framework: TestNG, KDF, DDF
-      <br>• Operation System: Windows, Linux, macOS
-      <br>• IDE: Eclipse
-      <br>• Versioning Control: Bitbucket
-      <br>• Manual Testing: SDLC, STLC, Types of Testing, Test Cases, Defect Life Cycle, SDLC Models, Test Plan and
-      Defect Reporting
+      <img src="Resource/selenium-logo.svg" alt="selenium" width="40" height="40"> <img src="Resource/JIRA-01.jpg" alt="JIRA" width="40" height="40"> <img src="Resource/confluence-vector-logo.svg" alt="confluence" width="40" height="40"> <img src="Resource/Java_logo_icon.png" alt="Java" width="40" height="40"> <img src="Resource/Python_logo_icon.png"alt="Python"width="40" height="40"> <img src="Resource/Eclipse-01.png" alt="Eclipse" width="40" height="40"> <img src="Resource/Bitbucket.svg" alt="Bitbucket" width="40" height="40">
    </p>
    <hr>
    <h2 id="experience">Experience</h2>
