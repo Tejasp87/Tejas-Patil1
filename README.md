@@ -6,7 +6,7 @@
    <hr>
    <h2 id="skills">Skills</h2>
    <p align="left">
-      • Automation Tools: Selenium WebDriver
+      • Automation Tools: Selenium WebDriver <img src="Resource/Eclipse-01.png/2048px-HTML5_logo_and_wordmark.svg.png" alt="Eclipse" width="40" height="40">
       <br>• Testing Types: Functional, System, UAT, BVT
       <br>• Agile Tools: Jira Software, Confluence
       <br>• Databases: MySQL
