@@ -6,13 +6,14 @@
    <hr>
    <h2 id="skills">Skills</h2>
    <p align="left">
+      <img src="Resource/clipart1542261.png" alt="selenium" width="40" height="40">
       <img src="Resource/selenium-logo.svg" alt="selenium" width="40" height="40">
-      <img src="Resource/JIRA-01.jpg" alt="JIRA" width="40" height="40">
-      <img src="Resource/confluence-vector-logo.svg" alt="confluence" width="70" height="60">
-      <img src="Resource/Java_logo_icon.png" alt="Java" width="60" height="40">
+      <img src="Resource/icons8-jira.svg" alt="JIRA" width="40" height="40">
+      <img src="Resource/confluence.png" alt="confluence" width="40" height="40">
+      <img src="Resource/icons8-java.svg" alt="Java" width="40" height="40">
       <img src="Resource/Python_logo_icon.png" alt="Python" width="40" height="40">
-      <img src="Resource/Eclipse-01.png" alt="Eclipse" width="70" height="60">
-      <img src="Resource/Bitbucket.svg" alt="Bitbucket" width="70" height="60">
+      <img src="Resource/eclipse.svg" alt="Eclipse" width="40" height="40">
+      <img src="Resource/bitbucket.png" alt="Bitbucket" width="40" height="40">
    </p>
    <hr>
    <h2 id="experience">Experience</h2>
