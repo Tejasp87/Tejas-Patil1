@@ -6,8 +6,8 @@
    <hr>
    <h2 id="skills">Skills</h2>
    <p align="left">
-      <img src="Resource/clipart1542261.png" alt="selenium" width="40" height="40">
-      <img src="Resource/selenium-logo.svg" alt="selenium" width="40" height="40">
+      <img src="Resource/clipart1542261.png" alt="Software-testing" width="40" height="40">
+      <img src="Resource/selenium-logo.svg" alt="Selenium" width="40" height="40">
       <img src="Resource/icons8-jira.svg" alt="JIRA" width="40" height="40">
       <img src="Resource/confluence.png" alt="confluence" width="40" height="40">
       <img src="Resource/icons8-java.svg" alt="Java" width="40" height="40">
